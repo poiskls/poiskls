@@ -1,24 +1,15 @@
 ### Hi there 👋
 
-<!--
-**poiskls/poiskls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 #
-- <a href="https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#android-api-level-support"> apache cordova android-api-level-support</a>
-- <a href="https://github.com/Hack-with-Github/Awesome-Hacking">Awesome-Hacking</a>
-- https://github.com/gtfobins
-- https://github.com/infoslack/awesome-web-hacking
-- https://github.com/devanshbatham 
-- https://github.com/sundowndev/hacker-roadmap
-- https://github.com/Screetsec/TheFatRat
+- [apache cordova android-api-level-support](https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#android-api-level-support)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [gtobins](https://github.com/gtfobins)
+- [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
+- [devanshbatham ](https://github.com/devanshbatham )
+- [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap)
+- [TheFatRat](https://github.com/Screetsec/TheFatRat)
+
+<!--
+ [title](link)
+ [title](link)
+  -->
