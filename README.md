@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - https://github.com/infoslack/awesome-web-hacking
 - https://github.com/devanshbatham 
 - https://github.com/sundowndev/hacker-roadmap
+- https://github.com/Screetsec/TheFatRat
