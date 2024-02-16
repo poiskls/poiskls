@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 <a href="https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#android-api-level-support"> apache cordova android-api-level-support</a>
 
 <a href="https://github.com/Hack-with-Github/Awesome-Hacking">Awesome-Hacking</a>
+
+https://github.com/gtfobins
+https://github.com/infoslack/awesome-web-hacking
