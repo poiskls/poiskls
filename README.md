@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 https://github.com/gtfobins
 https://github.com/infoslack/awesome-web-hacking
+
+https://github.com/devanshbatham
