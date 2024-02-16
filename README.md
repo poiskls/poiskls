@@ -2,7 +2,7 @@
 
 #
 - [apache cordova android-api-level-support](https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#android-api-level-support)
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 
 - [gtobins](https://github.com/gtfobins)
 - [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 - [devanshbatham ](https://github.com/devanshbatham )
@@ -12,5 +12,8 @@
 <!--
  [title](link)
  [title](link)
+
+ [x]
+ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text
   -->
   #
